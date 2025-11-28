@@ -31,7 +31,6 @@ Cada template acompanha:
 5. Comece a desenvolver com uma base sólida
 
 ## 📌 Recomendações de Uso
-- Sempre leia o README específico de cada template  
 - Atualize as dependências periodicamente  
 - Adapte o template conforme a necessidade do projeto  
 - Use os padrões como referência, mas personalize quando fizer sentido  
