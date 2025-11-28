@@ -1,3 +1,15 @@
 [submodule "template-react"]
 	path = template-react
 	url = https://github.com/felipe-sant/template-react.git
+[submodule "template-typescript"]
+	path = template-typescript
+	url = https://github.com/felipe-sant/template-typescript.git
+[submodule "template-python"]
+	path = template-python
+	url = https://github.com/felipe-sant/template-python.git
+[submodule "template-react-with-backend-connection"]
+	path = template-react-with-backend-connection
+	url = https://github.com/felipe-sant/template-react-with-backend-connection.git
+[submodule "template-react-with-redux"]
+	path = template-react-with-redux
+	url = https://github.com/felipe-sant/template-react-with-redux.git
