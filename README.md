@@ -13,7 +13,7 @@ Cada template acompanha:
 
 ## 📚 Lista de Templates Disponíveis
 
-> 🟢 **Python**: https://github.com/felipe-sant/template-python
+> 🔴 **Python**: https://github.com/felipe-sant/template-python
 >
 > 🟢 **React**: https://github.com/felipe-sant/template-react
 >
@@ -21,7 +21,7 @@ Cada template acompanha:
 >
 > 🔴 **React com Redux**: https://github.com/felipe-sant/template-react-with-redux
 >
-> 🟢 **TypeScript**: https://github.com/felipe-sant/template-typescript
+> 🔴 **TypeScript**: https://github.com/felipe-sant/template-typescript
 
 ## 🗂️ Como Usar um Template
 1. Acesse o repositório do template desejado  
