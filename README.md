@@ -13,7 +13,7 @@ Cada template acompanha:
 
 ## 📚 Lista de Templates Disponíveis
 
-> 🔴 **Python**: https://github.com/felipe-sant/template-python
+> 🟢 **Python**: https://github.com/felipe-sant/template-python
 >
 > 🟢 **React**: https://github.com/felipe-sant/template-react
 >
