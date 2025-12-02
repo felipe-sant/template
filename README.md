@@ -13,6 +13,8 @@ Cada template acompanha:
 
 ## 📚 Lista de Templates Disponíveis
 
+> 🔴 **Express**: https://github.com/felipe-sant/template-express
+>
 > 🟢 **Python**: https://github.com/felipe-sant/template-python
 >
 > 🟢 **React**: https://github.com/felipe-sant/template-react
