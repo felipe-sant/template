@@ -13,3 +13,6 @@
 [submodule "template-react-with-redux"]
 	path = template-react-with-redux
 	url = https://github.com/felipe-sant/template-react-with-redux.git
+[submodule "template-express"]
+	path = template-express
+	url = https://github.com/felipe-sant/template-express.git
