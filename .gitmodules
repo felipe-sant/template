@@ -16,3 +16,6 @@
 [submodule "template-express"]
 	path = template-express
 	url = https://github.com/felipe-sant/template-express.git
+[submodule "template-express-with-documentation"]
+	path = template-express-with-documentation
+	url = https://github.com/felipe-sant/template-express-with-documentation.git

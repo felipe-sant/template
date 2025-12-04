@@ -13,7 +13,9 @@ Cada template acompanha:
 
 ## 📚 Lista de Templates Disponíveis
 
-> 🔴 **Express**: https://github.com/felipe-sant/template-express
+> 🟢 **Express**: https://github.com/felipe-sant/template-express
+>
+> 🟢 **Express com documentação**: https://github.com/felipe-sant/template-express-with-documentation
 >
 > 🟢 **Python**: https://github.com/felipe-sant/template-python
 >
