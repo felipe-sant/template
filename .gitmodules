@@ -22,3 +22,6 @@
 [submodule "template-express-with-unit-test"]
 	path = template-express-with-unit-test
 	url = https://github.com/felipe-sant/template-express-with-unit-test.git
+[submodule "template-express-with-mongodb"]
+	path = template-express-with-mongodb
+	url = https://github.com/felipe-sant/template-express-with-mongodb.git
