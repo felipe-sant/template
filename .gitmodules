@@ -19,3 +19,6 @@
 [submodule "template-express-with-documentation"]
 	path = template-express-with-documentation
 	url = https://github.com/felipe-sant/template-express-with-documentation.git
+[submodule "template-express-with-unit-test"]
+	path = template-express-with-unit-test
+	url = https://github.com/felipe-sant/template-express-with-unit-test.git
