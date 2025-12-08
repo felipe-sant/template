@@ -13,19 +13,23 @@ Cada template acompanha:
 
 ## 📚 Lista de Templates Disponíveis
 
-> 🟢 **Express**: https://github.com/felipe-sant/template-express
+> 🛠️ **Express**: https://github.com/felipe-sant/template-express
 >
-> 🟢 **Express com documentação**: https://github.com/felipe-sant/template-express-with-documentation
+> 📝 **Express com documentação**: https://github.com/felipe-sant/template-express-with-documentation
 >
-> 🟢 **Python**: https://github.com/felipe-sant/template-python
+> 💾 **Express com MongoDB**: https://github.com/felipe-sant/template-express-with-mongodb
 >
-> 🟢 **React**: https://github.com/felipe-sant/template-react
+> 🧪 **Express com testes unitarios**: https://github.com/felipe-sant/template-express-with-unit-test
+> 
+> 🛠️ **Python**: https://github.com/felipe-sant/template-python
 >
-> 🔴 **React com Conexão Backend**: https://github.com/felipe-sant/template-react-with-backend-connection
+> 🛠️ **React**: https://github.com/felipe-sant/template-react
 >
-> 🔴 **React com Redux**: https://github.com/felipe-sant/template-react-with-redux
+> 🌐 **React com Conexão Backend**: https://github.com/felipe-sant/template-react-with-backend-connection
 >
-> 🟢 **TypeScript**: https://github.com/felipe-sant/template-typescript
+> 🖥️ **React com Redux**: https://github.com/felipe-sant/template-react-with-redux
+>
+> 🛠️ **TypeScript**: https://github.com/felipe-sant/template-typescript
 
 ## 🗂️ Como Usar um Template
 1. Acesse o repositório do template desejado  
