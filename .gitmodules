@@ -25,3 +25,6 @@
 [submodule "template-express-with-mongodb"]
 	path = template-express-with-mongodb
 	url = https://github.com/felipe-sant/template-express-with-mongodb.git
+[submodule "template-express-with-postgresql"]
+	path = template-express-with-postgresql
+	url = https://github.com/felipe-sant/template-express-with-postgresql.git
