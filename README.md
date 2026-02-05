@@ -19,6 +19,8 @@ Cada template acompanha:
 >
 > 💾 **Express com MongoDB**: https://github.com/felipe-sant/template-express-with-mongodb
 >
+> 💾 **Express com PostgreSQL**: https://github.com/felipe-sant/template-express-with-postgresql
+> 
 > 🧪 **Express com testes unitarios**: https://github.com/felipe-sant/template-express-with-unit-test
 > 
 > 🛠️ **Python**: https://github.com/felipe-sant/template-python
